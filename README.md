@@ -12,8 +12,17 @@ IC Assignment 2: Chapter 2 of Ecology Handbook
 - Minimal technical difficulties, bit better
 - Works and introduced matplotlib, and plotting on x and y axes
 
+IC Example 1: 
+- plotted the log of the Duckweed population data
+
 IC Assignment 3: Chapter 3 of Ecology Handbook
 - Did some independent class work
 - Had some difficulties with printing results, but Prof. E helped
 - displayed logistic equation on a graph
 - We followed the example in Chapter 3 of the Ecology Handbook that involved plants in a 2m x 2m plot
+
+IC Example 2: Population Data
+- Used Population Data csv
+- Imported pandas
+- plotted data
+- added a carrying capacity line, adjusted the color, and added gridlines using Copilot assistance
