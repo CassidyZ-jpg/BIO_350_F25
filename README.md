@@ -26,3 +26,14 @@ IC Example 2: Population Data
 - Imported pandas
 - plotted data
 - added a carrying capacity line, adjusted the color, and added gridlines using Copilot assistance
+
+IC Assignment 4: Chapter 4 of Ecology Handbook
+- competition models
+- Lotka-Volterra Competition Model- standard competition model between two different species
+
+IC Example 3: Competition Models
+- for i in time
+- added "if" statements
+- playing around with adding pertubations
+- algebraic equation from Introduction to Quantitative Ecology
+- adjusted carrying capacities to see if the two species can coexist/be stable
