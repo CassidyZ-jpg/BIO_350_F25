@@ -37,3 +37,10 @@ IC Example 3: Competition Models
 - playing around with adding pertubations
 - algebraic equation from Introduction to Quantitative Ecology
 - adjusted carrying capacities to see if the two species can coexist/be stable
+
+IC Assignment 5: Chapter 5 of Ecology Handbook
+- SIR (Susceptable, Infected, Removed) Model
+- worked independently
+- used comments/Copilot to help generate code
+- set parameters using the problem in the Handbook
+- ran the SIR model for t=30 days
