@@ -44,3 +44,28 @@ IC Assignment 5: Chapter 5 of Ecology Handbook
 - used comments/Copilot to help generate code
 - set parameters using the problem in the Handbook
 - ran the SIR model for t=30 days
+
+IC Example 4: SIR Model from R Code
+- copy-pasted Carcass_Model_Example_code.R into BIO_350_F25 folder
+- used Copilot to translate the R into Python
+
+IC Assignment 6: Chapter 12 of Ecology Handbook
+- matrix multiplication
+- tracking the total number of beetles in 3 age groups: First year, second year, and third year, over 150 years
+
+IC Example 5: Age-Structured Population
+- using ChatGPT to generate real-world examples of age-structured populations
+- use matrix multiplication
+- copy-pasted from previous assignment
+
+IC Assignment 7: Chapters 13 and 14 of Ecology Handbook
+- Ecological Succession of a tree population using a transition matrix
+- Absorption/extinction of butterflies within a metapopulation
+- probabilities that butterflies in both patches go extinct
+- 4x4 matrix multiplication
+- used CoPilot and copy/paste
+
+IC Assignment 8: Chapter 7 of Ecology Handbook
+- probability of finding eggs in a nest
+- Chapters 6 and 7 of Ecology handbook
+- run a program that finds the probability that a certain number of eggs are found in eagle nests
